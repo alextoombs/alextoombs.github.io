@@ -1,2 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Alex Toombs</title><link>https://alextoombs.co/posts/</link><description>Recent content in Posts on Alex Toombs</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 20 Jan 2022 13:17:15 -0800</lastBuildDate><atom:link href="https://alextoombs.co/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>On Writing</title><link>https://alextoombs.co/posts/on-writing/</link><pubDate>Thu, 20 Jan 2022 13:17:15 -0800</pubDate><guid>https://alextoombs.co/posts/on-writing/</guid><description>On Writing Writing has always been something aspirational for me. Unlike pottery, painting, or other more tangible creative pursuits, writing has always seemed magical in the way that beauty is created from nothing.
-But there&amp;rsquo;s always friction. When I scrawl something in my notes for inspiration, it feels embarrassing later on. When I go to write, my tools aren&amp;rsquo;t good enough, and I get stuck looking for a better/more efficient/more durable way to write and organize my thoughts.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alex Toombs</title>
+    <link>https://alextoombs.co/posts/</link>
+    <description>Recent content in Posts on Alex Toombs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jan 2022 13:17:15 -0800</lastBuildDate><atom:link href="https://alextoombs.co/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Writing</title>
+      <link>https://alextoombs.co/posts/on-writing/</link>
+      <pubDate>Thu, 20 Jan 2022 13:17:15 -0800</pubDate>
+      
+      <guid>https://alextoombs.co/posts/on-writing/</guid>
+      <description>On Writing Writing has always been something aspirational for me. Unlike pottery, painting, or other more tangible creative pursuits, writing has always seemed magical in the way that beauty is created from nothing.
+But there&amp;rsquo;s always friction. When I scrawl something in my notes for inspiration, it feels embarrassing later on. When I go to write, my tools aren&amp;rsquo;t good enough, and I get stuck looking for a better/more efficient/more durable way to write and organize my thoughts.</description>
+    </item>
+    
+  </channel>
+</rss>

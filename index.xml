@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alex Toombs</title><link>https://alextoombs.co/</link><description>Recent content on Alex Toombs</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 20 Jan 2022 13:17:15 -0800</lastBuildDate><atom:link href="https://alextoombs.co/index.xml" rel="self" type="application/rss+xml"/><item><title>On Writing</title><link>https://alextoombs.co/posts/on-writing/</link><pubDate>Thu, 20 Jan 2022 13:17:15 -0800</pubDate><guid>https://alextoombs.co/posts/on-writing/</guid><description>On Writing Writing has always been something aspirational for me. Unlike pottery, painting, or other more tangible creative pursuits, writing has always seemed magical in the way that beauty is created from nothing.
-But there&amp;rsquo;s always friction. When I scrawl something in my notes for inspiration, it feels embarrassing later on. When I go to write, my tools aren&amp;rsquo;t good enough, and I get stuck looking for a better/more efficient/more durable way to write and organize my thoughts.</description></item><item><title/><link>https://alextoombs.co/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alextoombs.co/about/</guid><description>About My name is Alex. I like to run long distances, backpack, bake sourdough, do yoga, lift things, watch Starcraft, play some video games newer than Starcraft, and fret about feeling like I&amp;rsquo;m getting nothing done.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Toombs</title>
+    <link>https://alextoombs.co/</link>
+    <description>Recent content on Alex Toombs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jan 2022 13:17:15 -0800</lastBuildDate><atom:link href="https://alextoombs.co/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Writing</title>
+      <link>https://alextoombs.co/posts/on-writing/</link>
+      <pubDate>Thu, 20 Jan 2022 13:17:15 -0800</pubDate>
+      
+      <guid>https://alextoombs.co/posts/on-writing/</guid>
+      <description>On Writing Writing has always been something aspirational for me. Unlike pottery, painting, or other more tangible creative pursuits, writing has always seemed magical in the way that beauty is created from nothing.
+But there&amp;rsquo;s always friction. When I scrawl something in my notes for inspiration, it feels embarrassing later on. When I go to write, my tools aren&amp;rsquo;t good enough, and I get stuck looking for a better/more efficient/more durable way to write and organize my thoughts.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alextoombs.co/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alextoombs.co/about/</guid>
+      <description>About My name is Alex. I like to run long distances, backpack, bake sourdough, do yoga, lift things, watch Starcraft, play some video games newer than Starcraft, and fret about feeling like I&amp;rsquo;m getting nothing done.
 I wish I were a better writer. I&amp;rsquo;d like to write fiction some day. I never have enough time to read.
-I love taking pictures of Sutro Tower. I think San Francisco is one of the prettiest places on earth.</description></item></channel></rss>
+I love taking pictures of Sutro Tower. I think San Francisco is one of the prettiest places on earth.</description>
+    </item>
+    
+  </channel>
+</rss>
