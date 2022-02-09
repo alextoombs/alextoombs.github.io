@@ -1,6 +1,6 @@
 # alextoombs.github.io
 
-My personal website. No frills, mostly just feel like if I'm burning money on domnains, I may as well host SOMETHING.
+My personal website. No frills, mostly just feel like if I'm burning money on domains, I may as well host SOMETHING.
 
 ## Hugo
 
@@ -13,3 +13,5 @@ I'm using the [m10c](https://themes.gohugo.io/themes/hugo-theme-m10c/#getting-st
 ## Deployment
 
 This is deployed using Github Pages. You can read about getting that started [at these docs from Hugo](https://gohugo.io/hosting-and-deployment/hosting-on-github/).
+
+As you'll see, there's no content hosted in here. It's in a private repo. If you need help setting this up for yourself, please hit me up!
